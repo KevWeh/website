@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family: 'Courier New', Courier, monospace ;
+}
+:root {
+    --bg-color: #0d0d0d;
+    --second-bg-color: #1a1a1a;
+    --text-color: white;
+    --main-color: #0fe;
+}
